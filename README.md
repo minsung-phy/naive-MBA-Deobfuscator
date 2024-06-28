@@ -13,8 +13,7 @@
     
     합성 제한 시간은 20초이여야한다.
 
-    
-
+    ```
     예제 입력 :
     python3 [hw.py](http://hw.py/) "(((x + 3) | y) + 2)"
     
@@ -26,3 +25,4 @@
     [ 합성이 성공했을 때 ]
     Synthesis Successful.
     Size of deobfuscated expr : 6
+    ```
