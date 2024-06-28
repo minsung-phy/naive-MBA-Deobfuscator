@@ -1,7 +1,7 @@
 # naive-MBA-Deobfuscator
 한양대학교 컴퓨터학부 프로그래밍 시스템 연구실에서 진행한 프로잭트 입니다.
 
-과제: Python으로 naive MBA Deobfuscator 만들기
+    과제: Python으로 naive MBA Deobfuscator 만들기
 
     Python의 ast 라이브러리를 활용하여 임의의 난독화된 MBA 표현식을 받는다. ex: (((x + 3) | y) + 23)
     
