@@ -13,16 +13,16 @@
     
     합성 제한 시간은 20초이여야한다.
 
-    ```
-    예제 입력 :
-    python3 [hw.py](http://hw.py/) "(((x + 3) | y) + 2)"
-    
-    예제 출력 :
-    Size of input expr : 7
-    SyGuS File written to : [Path]/hw.sl
-    [ 합성기가 시간 제한을 넘겼을 때 ]
-    Synthesizer Timed out.
-    [ 합성이 성공했을 때 ]
-    Synthesis Successful.
-    Size of deobfuscated expr : 6
-    ```
+```
+예제 입력 :
+python3 [hw.py](http://hw.py/) "(((x + 3) | y) + 2)"
+
+예제 출력 :
+Size of input expr : 7
+SyGuS File written to : [Path]/hw.sl
+[ 합성기가 시간 제한을 넘겼을 때 ]
+Synthesizer Timed out.
+[ 합성이 성공했을 때 ]
+Synthesis Successful.
+Size of deobfuscated expr : 6
+```
